@@ -6,6 +6,7 @@ Release:	1
 License:	Freeware
 Group:		Applications/Networking
 Source0:	http://www-ec.njit.edu/~asm3072/software/%{name}-%{version}.tar.gz
+# Source0-md5:	9631a21d80bf8062727e64549301884a
 URL:		http://web.njit.edu/~asm3072/programming.html
 Requires:	nmap
 Requires:	python-modules
