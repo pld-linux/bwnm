@@ -23,7 +23,7 @@ directory. wnum allows you to easily unmount those shares.
 
 %description -l pl
 bwnm jest now± wersj± wnm. Wykorzystuje nmap-a do znalezienia
-wszystkch komputerów pod podanym zakresem IP z otwartymi portami
+wszystkich komputerów pod podanym zakresem IP z otwartymi portami
 netbiosu, a nastêpnie wykorzystuj±c nmblookup i smbmount montuje
 wszystkie dostêpne zasoby w bierz±cym katalogu. wnum pozwala na ³atwe
 odmontowanie tych zasobów.
