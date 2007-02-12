@@ -1,5 +1,5 @@
 Summary:	Simple tool to mount all smb shares
-Summary(pl):	Proste narzêdzie do montowania zasobów z smb
+Summary(pl.UTF-8):   Proste narzÄ™dzie do montowania zasobÃ³w z smb
 Name:		bwnm
 Version:	1.1
 Release:	1
@@ -21,12 +21,12 @@ computers in a given IP range with the netbios port open, then using
 nmblookup and smbmount it mounts all available shares in the current
 directory. wnum allows you to easily unmount those shares.
 
-%description -l pl
-bwnm jest now± wersj± wnm. Wykorzystuje nmap-a do znalezienia
-wszystkich komputerów pod podanym zakresem IP z otwartymi portami
-netbiosu, a nastêpnie wykorzystuj±c nmblookup i smbmount montuje
-wszystkie dostêpne zasoby w bie¿±cym katalogu. wnum pozwala na ³atwe
-odmontowanie tych zasobów.
+%description -l pl.UTF-8
+bwnm jest nowÄ… wersjÄ… wnm. Wykorzystuje nmap-a do znalezienia
+wszystkich komputerÃ³w pod podanym zakresem IP z otwartymi portami
+netbiosu, a nastÄ™pnie wykorzystujÄ…c nmblookup i smbmount montuje
+wszystkie dostÄ™pne zasoby w bieÅ¼Ä…cym katalogu. wnum pozwala na Å‚atwe
+odmontowanie tych zasobÃ³w.
 
 %prep
 %setup -q -n %{name}
