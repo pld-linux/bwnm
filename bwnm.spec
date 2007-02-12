@@ -1,5 +1,5 @@
 Summary:	Simple tool to mount all smb shares
-Summary(pl.UTF-8):   Proste narzędzie do montowania zasobów z smb
+Summary(pl.UTF-8):	Proste narzędzie do montowania zasobów z smb
 Name:		bwnm
 Version:	1.1
 Release:	1
